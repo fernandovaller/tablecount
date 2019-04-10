@@ -4,4 +4,5 @@
 
 * Presione a tecla SHIFT e selecione as células da tabela
 
-![tablecount](https://raw.githubusercontent.com/fernandovaller/tablecount/master/screenshot.gif)
+![](out.gif)
+![tablecount](https://raw.githubusercontent.com/fernandovaller/tablecount/master/out.gif)
